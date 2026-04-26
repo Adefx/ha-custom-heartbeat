@@ -1,7 +1,7 @@
 # 💓 Custom Heartbeat for Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
-[![Maintainer](https://img.shields.io/badge/Maintained_by-You-blue?style=for-the-badge)](#)
+[![Maintainer](https://img.shields.io/badge/Maintained_by-Adefx-blue?style=for-the-badge)](#)
 
 A lightweight, 100% UI-based integration for **Home Assistant** to send a regular life signal (Heartbeat / Ping) to external monitoring services like **Uptime Kuma**, **Healthchecks.io**, or **UptimeRobot**.
 
