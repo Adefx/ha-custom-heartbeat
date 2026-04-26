@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configuration Custom Heartbeat",
+        "description": "Please set the corresponding heartbeat informations",
+        "data": {
+          "url_heartbeat": "Heartbeat Push Url",
+          "interval": "Heartbeat Interval ( in min. )"
+        }
+      }
+    },
+    "error": {
+      "invalid_url": "URL must start with http:// or https://"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configuration Custom Heartbeat",
+        "description": "Paramétrez les informations pour l'envoi de la requête Push.",
+        "data": {
+          "name": "Nom de cette instance (ex: Kuma Salon)",
+          "url_heartbeat": "Url du Heartbeat",
+          "interval": "interval des requetes (en min.)"
+        }
+      }
+    },
+    "error": {
+      "invalid_url": "L'URL doit commencer par http:// ou https://"
+    }
+  }
+}

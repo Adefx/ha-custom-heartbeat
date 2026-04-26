@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Custom Heartbeat Configuration",
+        "description": "Configure the push request settings.",
+        "data": {
+          "name": "Instance name (eg. Heartbeat living)",
+          "url_heartbeat": "Heartbeat Push Url",
+          "interval": "Heartbeat interval (in minutes)"
+        }
+      }
+    },
+    "error": {
+      "invalid_url": "The URL must begin with http:// or https://"
+    }
+  }
+}
