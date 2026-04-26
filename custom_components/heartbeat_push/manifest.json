@@ -1,12 +1,14 @@
 {
   "domain": "heartbeat_push",
   "name": "Custom Heartbeat",
-  "version": "1.0.1",
-  "documentation": "https://github.com/Adefx/ha-custom-heartbeat",
-  "issue_tracker": "https://github.com/Adefx/ha-custom-heartbeat/issues",
+  "codeowners": [
+    "@Adefx"
+  ],
+  "config_flow": true,
   "dependencies": [],
-  "codeowners": ["@Adefx"],
-  "requirements": [],
+  "documentation": "https://github.com/Adefx/ha-custom-heartbeat",
   "iot_class": "cloud_push",
-  "config_flow": true
+  "issue_tracker": "https://github.com/Adefx/ha-custom-heartbeat/issues",
+  "requirements": [],
+  "version": "1.0.2"
 }
